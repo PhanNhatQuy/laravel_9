@@ -1,0 +1,16 @@
+|CTAG_1621211021_47498046_10272_0
+php atisan migrate
+php atisan serve
+|hp artisan serve
+|hp artisan migrate
+|hp artisan migrate
+|hp artisan serve
+git clone https://github.com/PhanNhatQuy/PhanNhatQuy_Tuan8.git
+git commit -m"a"
+|hp artisan migrate
+|hp artisan serve
+php artisan migrate
+php artisan sever
+php artisan serve
+1-clean.bat
+1-clear.bat
